@@ -6,6 +6,8 @@ Compares the first N bytes of each exported function **on disk** against what is
 
 ---
 
+> ⚠️ **Demo Release** — This is a userland only preview. A full release including kernel-level detection (SSDT hooks, IRP hooks, kernel callbacks) is planned.
+
 ## Requirements
 
 - Python 3.6+
